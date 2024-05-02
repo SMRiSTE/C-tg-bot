@@ -1,6 +1,5 @@
-﻿#include <stdio.h>
+﻿
 #include <tgbot/tgbot.h>
-#include <locale>
 
 
 int main() {
